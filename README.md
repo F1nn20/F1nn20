@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @F1nn20
+- 👀 I’m interested in python.
+- 🌱 I’m currently learning tkinter and gui on python.
+- 💞️ I’m looking to collaborate on anything! Really if you want to collaborate just ask.
+- 📫 How to reach me on sarimfinn@yahoo.com
